@@ -23,7 +23,8 @@ git clone https://github.com/nenad2504/Windows-Form-Calculator.git
 Open the project in the Visual Studio development environment
 Start the application by pressing the F5 button or from the menu Build > Start Debugging
 
-The author
+The author:
+
 This project was created by Nenad Jovanovic. All rights reserved.
 
 Licenses
